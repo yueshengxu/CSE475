@@ -1,0 +1,8 @@
+/home/yx/CSE475/HW1/build/CMakeFiles/multi.dir
+/home/yx/CSE475/HW1/build/CMakeFiles/multi2.dir
+/home/yx/CSE475/HW1/build/CMakeFiles/multi3.dir
+/home/yx/CSE475/HW1/build/CMakeFiles/multi4.dir
+/home/yx/CSE475/HW1/build/CMakeFiles/single.dir
+/home/yx/CSE475/HW1/build/CMakeFiles/single2.dir
+/home/yx/CSE475/HW1/build/CMakeFiles/edit_cache.dir
+/home/yx/CSE475/HW1/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -O3 CMakeFiles/test.dir/src/test.cpp.o -o test 

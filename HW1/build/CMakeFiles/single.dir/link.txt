@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -O3 CMakeFiles/single.dir/src/single.cpp.o -o single 

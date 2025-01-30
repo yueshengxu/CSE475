@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -O3 CMakeFiles/multi3.dir/src/multi3.cpp.o -o multi3 

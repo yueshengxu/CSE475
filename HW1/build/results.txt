@@ -1,0 +1,13 @@
+executable,threads,accounts,result
+single,1,100,"55.2"
+multi,2,100,"55.6"
+multi,4,100,"60.7"
+multi,8,100,"62.5"
+single,1,1000,"79.7"
+multi,2,1000,"77.5"
+multi,4,1000,"81"
+multi,8,1000,"81.2"
+single,1,10000,"123.8"
+multi,2,10000,"139.1"
+multi,4,10000,"134.8"
+multi,8,10000,"133.5"

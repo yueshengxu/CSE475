@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -O3 CMakeFiles/multi4.dir/src/multi4.cpp.o -o multi4 

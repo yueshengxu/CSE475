@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -O3 CMakeFiles/MyExecutable.dir/src/multi2.cpp.o -o MyExecutable 
